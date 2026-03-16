@@ -1,6 +1,5 @@
 raja_crot
 crit
-okta_crot
 finz
 fox
 putri
